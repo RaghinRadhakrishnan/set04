@@ -6,5 +6,5 @@ def fact(x)
 end
   end
 puts "Enter any number"
-a,b=gets.chomp.to_i
+a=gets.chomp.to_i
 fact(a)
