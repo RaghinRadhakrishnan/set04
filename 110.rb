@@ -5,7 +5,7 @@ sum=sum+i
 end
 puts sum
 end
-puts "Enter two number"
+puts "Enter number"
 a=gets.chomp.to_i
 b=a+1
 raghin(b)
